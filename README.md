@@ -1,2 +1,2 @@
-# ProgramasCpp
-programas em  C++ curso lógica 
+#C++
+programas em  C++ curso lógica de Programação
